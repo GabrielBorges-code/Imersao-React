@@ -6,3 +6,4 @@ Projeto web que está sendo desenvolvido na Imersao React do
 Nesse projeto tem o objetivo de criar uma página baseada no Netflix utilizando o framework React. 
 
 Essa página será um agregador de videos de tecnologia do Youtube.
+Link para acessar a página: https://gabrielflix.vercel.app/

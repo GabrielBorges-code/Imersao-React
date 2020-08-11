@@ -7,8 +7,8 @@ import Home from './pages/Home';
 import CadastroVideo from './pages/cadastro/Video';
 import CadastroCategoria from './pages/cadastro/Categoria';
 
-//Desafio colocar o game da irmersão game_Dev
-const Pagina404 = ()=> (<div>Erro [404]</div>)
+// Desafio colocar o game da irmersão game_Dev
+const Pagina404 = () => (<div>Erro [404]</div>);
 
 ReactDOM.render(
   <BrowserRouter>
@@ -20,5 +20,5 @@ ReactDOM.render(
     </Switch>
   </BrowserRouter>,
 
-  document.getElementById('root')
+  document.getElementById('root'),
 );
